@@ -2,7 +2,7 @@
 $(document).ready(function(startup) {
 
 //create topics array
-var topics = ["yarn", "knitting", "video games", "books", "superheros", "makeup"];
+var topics = ["yarn", "knitting", "video games", "books", "superheroes", "makeup"];
 
 
 //function to search GIFPHY, create buttons
